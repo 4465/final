@@ -64,6 +64,7 @@ ostream& operator << (ostream& out, Graphmtx& G)
 
 int main()
 {
+	cout << "ÁõÍþ¸¦" << endl;
 	int src;
 	int head, tail;
 	char v1[] = { '1','2','3','4','5','6','7','8','9' };//¶¥µãÐÅÏ¢
